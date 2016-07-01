@@ -4,16 +4,22 @@ import urllib
 from BeautifulSoup import *
 import re
 
-urls = ["https://movie.douban.com/top250", "https://movie.douban.com/top250?start=25&filter="]
-urls.append("https://movie.douban.com/top250?start=50&filter=")
-urls.append("https://movie.douban.com/top250?start=75&filter=")
-urls.append("https://movie.douban.com/top250?start=100&filter=")
-urls.append("https://movie.douban.com/top250?start=125&filter=")
-urls.append("https://movie.douban.com/top250?start=150&filter=")
-urls.append("https://movie.douban.com/top250?start=175&filter=")
-urls.append("https://movie.douban.com/top250?start=200&filter=")
-urls.append("https://movie.douban.com/top250?start=225&filter=")
+# get the ten page urls of the top 250 movie list
+urls = ["https://movie.douban.com/top250"]
+url = "https://movie.douban.com/top250"
+newurl = ""
 
+listpage = urllib.urlopen(url).read()
+listsoup = BeautifulSoup(listpage)
+listlink = listsoup("a")
+for listlin in listlink:
+    listlin = str(listlin)
+    link = listlin.split('"')[1]
+    if link.startswith("?start"):
+        newurl = url + link
+        urls.append(newurl)
+
+# find out the years and count        
 year_count = dict()
 
 for url in urls:
