@@ -1,0 +1,838 @@
+Country,Score,Rank,Year 
+Iceland,0.970,104,2016
+Finland,0.980,1,2016
+Norway,0.974,68,2016
+Sweden,0.974,69,2016
+Rwanda,0.972,89,2016
+Ireland,0.979,54,2016
+Philippines,0.980,1,2016
+Slovenia,0.973,76,2016
+New Zealand,0.970,104,2016
+Nicaragua,0.980,1,2016
+Switzerland,0.974,72,2016
+Burundi,0.974,66,2016
+Germany,0.979,54,2016
+Namibia,0.980,1,2016
+South Africa,0.980,1,2016
+Netherlands,0.970,103,2016
+France,0.980,1,2016
+Latvia,0.980,1,2016
+Denmark,0.970,106,2016
+United Kingdom,0.974,64,2016
+Mozambique,0.968,113,2016
+Estonia,0.980,1,2016
+Bolivia,0.980,1,2016
+Belgium,0.974,64,2016
+Lithuania,0.979,40,2016
+Moldova,0.979,40,2016
+Cuba,0.975,61,2016
+Barbados,0.980,1,2016
+Spain,0.972,91,2016
+Belarus,0.979,40,2016
+Portugal,0.973,76,2016
+Costa Rica,0.975,62,2016
+Argentina,0.980,1,2016
+Luxembourg,0.974,69,2016
+Canada,0.969,108,2016
+Cape Verde,0.980,1,2016
+Bahamas,0.980,1,2016
+Poland,0.979,40,2016
+Colombia,0.979,40,2016
+Ecuador,0.980,1,2016
+Bulgaria,0.979,40,2016
+Jamaica,0.980,1,2016
+Lao PDR,0.972,90,2016
+Trinidad and Tobago,0.980,1,2016
+United States,0.975,62,2016
+Australia,0.974,72,2016
+Panama,0.980,1,2016
+Serbia,0.973,76,2016
+Israel,0.974,67,2016
+Italy,0.974,72,2016
+Kazakhstan,0.980,1,2016
+Austria,0.980,1,2016
+Tanzania,0.979,53,2016
+Botswana,0.973,85,2016
+Singapore,0.967,121,2016
+Zimbabwe,0.980,1,2016
+Lesotho,0.980,1,2016
+Mongolia,0.980,1,2016
+Ghana,0.973,85,2016
+Madagascar,0.973,88,2016
+Uganda,0.980,1,2016
+Albania,0.947,141,2016
+Kenya,0.973,83,2016
+El Salvador,0.980,1,2016
+Vietnam,0.950,138,2016
+Mexico,0.980,1,2016
+Malawi,0.973,75,2016
+Croatia,0.979,40,2016
+Ukraine,0.979,40,2016
+Chile,0.979,39,2016
+Thailand,0.980,1,2016
+Bangladesh,0.971,93,2016
+"Macedonia, FYR",0.967,119,2016
+Venezuela,0.980,1,2016
+Russian Federation,0.979,40,2016
+Romania,0.979,40,2016
+Czech Republic,0.979,40,2016
+Honduras,0.976,59,2016
+Brazil,0.980,1,2016
+Peru,0.970,100,2016
+Kyrgyz Republic,0.973,76,2016
+Senegal,0.967,123,2016
+Bosnia and Herzegovina,0.973,76,2016
+Cyprus,0.974,71,2016
+Cameroon,0.968,114,2016
+Azerbaijan,0.950,138,2016
+India,0.942,142,2016
+Indonesia,0.976,58,2016
+Montenegro,0.975,60,2016
+Georgia,0.967,119,2016
+Uruguay,0.980,1,2016
+Greece,0.979,54,2016
+Tajikistan,0.966,126,2016
+Slovak Republic,0.973,76,2016
+Suriname,0.980,1,2016
+Paraguay,0.980,1,2016
+Dominican Republic,0.971,97,2016
+Belize,0.980,1,2016
+China,0.919,144,2016
+Sri Lanka,0.980,1,2016
+Hungary,0.979,40,2016
+Armenia,0.939,143,2016
+Brunei Darussalam,0.966,130,2016
+"Gambia, The",0.973,83,2016
+Guatemala,0.980,1,2016
+Malaysia,0.969,109,2016
+Swaziland,0.961,132,2016
+Malta,0.970,107,2016
+Ethiopia,0.978,57,2016
+Nepal,0.972,92,2016
+Japan,0.979,40,2016
+Cambodia,0.980,1,2016
+Mauritius,0.980,1,2016
+Liberia,0.967,118,2016
+Maldives,0.966,129,2016
+"Korea, Rep.",0.973,76,2016
+Angola,0.980,1,2016
+Nigeria,0.961,135,2016
+Qatar,0.957,136,2016
+Algeria,0.966,127,2016
+Bhutan,0.966,125,2016
+Guinea,0.967,115,2016
+Burkina Faso,0.967,116,2016
+United Arab Emirates,0.961,132,2016
+Timor-Leste,0.971,96,2016
+Tunisia,0.969,110,2016
+Benin,0.967,116,2016
+Kuwait,0.957,136,2016
+Mauritania,0.973,85,2016
+Turkey,0.980,1,2016
+Bahrain,0.961,132,2016
+Egypt,0.971,95,2016
+Oman,0.971,99,2016
+Jordan,0.966,131,2016
+Lebanon,0.970,102,2016
+Côte d'Ivoire,0.968,112,2016
+Morocco,0.971,93,2016
+Mali,0.949,140,2016
+"Iran, Islamic Rep.",0.971,98,2016
+Chad,0.968,111,2016
+Saudi Arabia,0.966,128,2016
+Syria,0.970,101,2016
+Pakistan,0.967,124,2016
+Yemen,0.967,122,2016
+Iceland,0.97,105,2015
+Norway,0.974,70,2015
+Finland,0.98,1,2015
+Sweden,0.974,71,2015
+Ireland,0.979,56,2015
+Rwanda,0.972,91,2015
+Philippines,0.98,1,2015
+Switzerland,0.974,74,2015
+Slovenia,0.973,79,2015
+New Zealand,0.97,105,2015
+Germany,0.979,56,2015
+Nicaragua,0.98,1,2015
+Netherlands,0.97,104,2015
+Denmark,0.97,107,2015
+France,0.98,1,2015
+Namibia,0.98,1,2015
+South Africa,0.98,1,2015
+United Kingdom,0.974,66,2015
+Belgium,0.974,66,2015
+Latvia,0.98,1,2015
+Estonia,0.98,1,2015
+Bolivia,0.98,1,2015
+Burundi,0.974,68,2015
+Barbados,0.98,1,2015
+Spain,0.972,93,2015
+Moldova,0.979,42,2015
+Mozambique,0.968,114,2015
+United States,0.975,64,2015
+Cuba,0.975,63,2015
+Canada,0.969,109,2015
+Lithuania,0.979,42,2015
+Luxembourg,0.974,71,2015
+Ecuador,0.98,1,2015
+Belarus,0.979,42,2015
+Argentina,0.98,1,2015
+Australia,0.974,74,2015
+Austria,0.98,1,2015
+Costa Rica,0.975,64,2015
+Portugal,0.973,79,2015
+Bahamas,0.98,1,2015
+Italy,0.974,74,2015
+Colombia,0.979,42,2015
+Bulgaria,0.979,42,2015
+Panama,0.98,1,2015
+Serbia,0.973,79,2015
+Trinidad and Tobago,0.98,1,2015
+Kazakhstan,0.98,1,2015
+Kenya,0.973,85,2015
+Tanzania,0.979,55,2015
+Cape Verde,0.98,1,2015
+Poland,0.979,42,2015
+Lao PDR,0.972,92,2015
+Israel,0.974,69,2015
+Singapore,0.967,122,2015
+Botswana,0.973,87,2015
+Mongolia,0.98,1,2015
+Zimbabwe,0.98,1,2015
+Uganda,0.98,1,2015
+Croatia,0.979,42,2015
+Thailand,0.98,1,2015
+Lesotho,0.98,1,2015
+El Salvador,0.98,1,2015
+Ghana,0.973,87,2015
+Bangladesh,0.971,95,2015
+Jamaica,0.98,1,2015
+Guyana,0.98,1,2015
+Ukraine,0.979,42,2015
+Malawi,0.973,78,2015
+"Macedonia, FYR",0.967,120,2015
+Albania,0.947,142,2015
+Mexico,0.98,1,2015
+Senegal,0.967,124,2015
+Chile,0.979,41,2015
+Madagascar,0.973,90,2015
+Russian Federation,0.979,42,2015
+Kyrgyz Republic,0.973,79,2015
+Romania,0.979,42,2015
+Venezuela,0.98,1,2015
+Montenegro,0.975,62,2015
+Honduras,0.976,61,2015
+Czech Republic,0.979,42,2015
+Georgia,0.967,120,2015
+Vietnam,0.95,139,2015
+Sri Lanka,0.98,1,2015
+Brazil,0.98,1,2015
+Dominican Republic,0.971,98,2015
+Greece,0.979,56,2015
+Brunei Darussalam,0.966,131,2015
+Peru,0.97,101,2015
+Cameroon*,0.968,115,2015
+China,0.919,145,2015
+Indonesia,0.976,60,2015
+Uruguay,0.98,1,2015
+Suriname,0.98,1,2015
+Tajikistan,0.966,127,2015
+Azerbaijan,0.95,139,2015
+Slovak Republic,0.973,79,2015
+"Gambia, The*",0.973,85,2015
+Hungary,0.979,42,2015
+Cyprus,0.974,73,2015
+Japan,0.979,42,2015
+Swaziland,0.961,133,2015
+Belize,0.98,1,2015
+Malta,0.97,108,2015
+Armenia,0.939,144,2015
+Guatemala,0.98,1,2015
+Paraguay,0.98,1,2015
+India,0.942,143,2015
+Cambodia,0.98,1,2015
+Nepal,0.972,94,2015
+Malaysia,0.969,110,2015
+Liberia,0.967,119,2015
+Maldives,0.966,130,2015
+Burkina Faso,0.967,117,2015
+"Korea, Rep.",0.973,79,2015
+Zambia,0.974,77,2015
+Kuwait,0.957,137,2015
+Bhutan,0.966,126,2015
+United Arab Emirates,0.961,133,2015
+Mauritius,0.98,1,2015
+Fiji,0.98,1,2015
+Qatar,0.957,137,2015
+Bahrain,0.961,133,2015
+Ethiopia,0.978,59,2015
+Nigeria,0.961,133,2015
+Angola,0.98,1,2015
+Tunisia,0.969,111,2015
+Algeria,0.966,128,2015
+Benin*,0.967,117,2015
+Turkey,0.98,1,2015
+Guinea,0.967,116,2015
+Mauritania,0.973,87,2015
+Côte d'Ivoire,0.968,113,2015
+Saudi Arabia,0.966,129,2015
+Oman,0.971,100,2015
+Egypt,0.971,97,2015
+Mali,0.949,141,2015
+Lebanon,0.97,103,2015
+Morocco,0.971,95,2015
+Jordan,0.966,132,2015
+"Iran, Islamic Rep.",0.971,99,2015
+Chad,0.968,112,2015
+Syria,0.97,102,2015
+Pakistan,0.967,125,2015
+Yemen,0.967,123,2015
+Iceland,0.9654,128,2014
+Finland,0.9789,52,2014
+Norway,0.9695,98,2014
+Sweden,0.9694,100,2014
+Denmark,0.9741,65,2014
+Nicaragua,0.9796,1,2014
+Rwanda*,0.9667,118,2014
+Ireland,0.9739,67,2014
+Philippines,0.9796,1,2014
+Belgium,0.9789,52,2014
+Switzerland,0.9737,70,2014
+Germany,0.9739,67,2014
+New Zealand,0.9698,96,2014
+Netherlands,0.9699,94,2014
+Latvia,0.9796,1,2014
+France,0.9796,1,2014
+Burundi,0.9796,1,2014
+South Africa,0.9796,1,2014
+Canada,0.9694,100,2014
+United States,0.9747,62,2014
+Ecuador,0.9796,1,2014
+Bulgaria,0.9791,37,2014
+Slovenia,0.973,74,2014
+Australia,0.9737,70,2014
+Moldova,0.9791,37,2014
+United Kingdom,0.9699,94,2014
+Mozambique,0.968,104,2014
+Luxembourg,0.9678,106,2014
+Spain,0.9719,87,2014
+Cuba,0.9791,37,2014
+Argentina,0.9796,1,2014
+Belarus*,0.9791,37,2014
+Barbados,0.9796,1,2014
+Malawi,0.9673,110,2014
+Bahamas,0.9796,1,2014
+Austria,0.9789,52,2014
+Kenya,0.973,80,2014
+Lesotho,0.9758,60,2014
+Portugal,0.9724,85,2014
+Namibia,0.9796,1,2014
+Madagascar,0.9725,82,2014
+Mongolia,0.9796,1,2014
+Kazakhstan,0.9796,1,2014
+Lithuania,0.9791,37,2014
+Peru,0.9705,93,2014
+Panama,0.9796,1,2014
+Tanzania,0.9732,73,2014
+Costa Rica,0.9747,62,2014
+Trinidad and Tobago,0.9796,1,2014
+Cape Verde,0.9796,1,2014
+Botswana,0.9671,112,2014
+Jamaica,0.9796,1,2014
+Colombia,0.9791,37,2014
+Serbia,0.973,74,2014
+Croatia,0.9791,37,2014
+Ukraine,0.973,74,2014
+Poland,0.9791,37,2014
+Bolivia,0.977,56,2014
+Singapore,0.9671,114,2014
+Lao PDR,0.9721,86,2014
+Thailand,0.9796,1,2014
+Estonia,0.9791,37,2014
+Zimbabwe*,0.9796,1,2014
+Guyana,0.9796,1,2014
+Israel,0.9698,96,2014
+Chile,0.9792,36,2014
+Kyrgyz Republic,0.973,74,2014
+Bangladesh,0.9663,122,2014
+Italy,0.9737,70,2014
+"Macedonia, FYR",0.9628,131,2014
+Brazil,0.9796,1,2014
+Romania,0.9791,37,2014
+Honduras,0.976,59,2014
+Montenegro*,0.9641,129,2014
+Russian Federation,0.9791,37,2014
+Vietnam,0.9441,137,2014
+Senegal,0.9725,82,2014
+Dominican Republic,0.9706,91,2014
+Sri Lanka,0.9796,1,2014
+Mexico,0.9796,1,2014
+Paraguay,0.9796,1,2014
+Uruguay,0.9796,1,2014
+Albania,0.9409,139,2014
+El Salvador,0.9796,1,2014
+Georgia,0.967,115,2014
+Venezuela,0.9796,1,2014
+China,0.9404,140,2014
+Uganda,0.9674,107,2014
+Guatemala,0.9796,1,2014
+Slovak Republic,0.973,74,2014
+Greece,0.9785,55,2014
+Swaziland*,0.9796,1,2014
+Hungary,0.9791,37,2014
+Azerbaijan,0.9441,137,2014
+Cyprus,0.9738,69,2014
+Czech Republic,0.9791,37,2014
+Indonesia,0.9762,58,2014
+Brunei Darussalam,0.9657,126,2014
+Malta,0.9695,98,2014
+Belize,0.9796,1,2014
+Ghana,0.9669,116,2014
+Tajikistan,0.9664,121,2014
+Armenia,0.9332,142,2014
+Japan,0.9791,37,2014
+Maldives,0.9658,125,2014
+Mauritius,0.9796,1,2014
+Malaysia,0.9692,102,2014
+Cambodia,0.9796,1,2014
+Suriname,0.9796,1,2014
+Burkina Faso,0.9673,110,2014
+Liberia*,0.9671,112,2014
+Nepal,0.9717,88,2014
+Kuwait,0.9567,134,2014
+India,0.9366,141,2014
+United Arab Emirates,0.9612,132,2014
+Qatar,0.9522,136,2014
+"Korea, Rep.",0.973,74,2014
+Nigeria,0.9674,109,2014
+Zambia,0.9739,66,2014
+Bhutan,0.9665,120,2014
+Angola,0.9754,61,2014
+Fiji,0.9796,1,2014
+Tunisia*,0.9641,129,2014
+Bahrain,0.9612,132,2014
+Turkey,0.9796,1,2014
+Algeria,0.9661,124,2014
+Ethiopia,0.9725,82,2014
+Oman,0.9706,91,2014
+Egypt,0.9765,57,2014
+Saudi Arabia,0.9707,90,2014
+Mauritania,0.973,80,2014
+Guinea*,0.9674,107,2014
+Morocco,0.9663,122,2014
+Jordan,0.9655,127,2014
+Lebanon,0.9747,62,2014
+Côte d'Ivoire,0.968,104,2014
+"Iran, Islamic Rep.",0.9709,89,2014
+Mali,0.9549,135,2014
+Syria,0.9791,37,2014
+Chad,0.9683,103,2014
+Pakistan,0.9666,119,2014
+Yemen,0.9668,117,2014
+Iceland,0.9696,97,2013
+Finland,0.9796,1,2013
+Norway,0.9697,93,2013
+Sweden,0.9735,69,2013
+Philippines,0.9796,1,2013
+Ireland,0.9737,65,2013
+New Zealand,0.9697,93,2013
+Denmark,0.9739,64,2013
+Switzerland,0.9733,72,2013
+Nicaragua,0.9758,55,2013
+Belgium,0.9787,47,2013
+Latvia,0.9796,1,2013
+Netherlands,0.9697,93,2013
+Germany,0.978,49,2013
+Cuba,0.9743,63,2013
+Lesotho,0.9796,1,2013
+South Africa,0.9677,102,2013
+United Kingdom,0.9698,92,2013
+Austria,0.9787,47,2013
+Canada,0.978,49,2013
+Luxembourg,0.9719,85,2013
+Burundi,0.9685,99,2013
+United States,0.9792,33,2013
+Australia,0.9735,69,2013
+Ecuador,0.9758,55,2013
+Mozambique,0.9612,112,2013
+Bolivia,0.9719,84,2013
+Lithuania,0.9791,34,2013
+Barbados,0.9796,1,2013
+Spain,0.973,75,2013
+Costa Rica,0.9747,62,2013
+Kazakhstan,0.9796,1,2013
+Mongolia,0.9796,1,2013
+Argentina,0.9796,1,2013
+Colombia,0.9791,34,2013
+Trinidad and Tobago,0.9516,130,2013
+Panama,0.9753,61,2013
+Slovenia,0.973,75,2013
+Malawi,0.9683,101,2013
+Bahamas,0.9796,1,2013
+Cape Verde,0.9796,1,2013
+Serbia,0.9642,111,2013
+Bulgaria,0.9791,34,2013
+Namibia,0.9671,105,2013
+France,0.9796,1,2013
+Uganda,0.9796,1,2013
+Jamaica,0.9796,1,2013
+Guyana,0.9789,45,2013
+Croatia,0.9791,34,2013
+Venezuela,0.9796,1,2013
+Portugal,0.9724,83,2013
+Moldova,0.9791,34,2013
+Israel,0.9697,93,2013
+Poland,0.9791,34,2013
+Sri Lanka,0.9796,1,2013
+Madagascar,0.9732,74,2013
+Macedonia,0.9533,128,2013
+Singapore,0.9719,85,2013
+Estonia,0.9791,34,2013
+Lao PDR*,0.9669,106,2013
+Russian Federation,0.9791,34,2013
+Brazil,0.9796,1,2013
+Kyrgyz Republic,0.973,75,2013
+Ukraine,0.973,75,2013
+Thailand,0.9796,1,2013
+Tanzania,0.9612,112,2013
+Senegal,0.9734,71,2013
+Mexico,0.9796,1,2013
+China,0.9398,133,2013
+Romania,0.9791,34,2013
+Italy,0.9733,72,2013
+Dominican Republic,0.9711,89,2013
+Vietnam,0.9441,132,2013
+Slovak Republic,0.9796,1,2013
+Bangladesh,0.9557,124,2013
+Ghana,0.9674,104,2013
+Uruguay,0.9796,1,2013
+Kenya,0.9677,102,2013
+Cyprus,0.9701,91,2013
+Peru,0.9658,109,2013
+Greece,0.9737,65,2013
+Honduras,0.9762,52,2013
+Czech Republic,0.9788,46,2013
+Malta,0.9737,65,2013
+Botswana,0.9549,127,2013
+Georgia,0.9553,126,2013
+Hungary,0.9791,34,2013
+Brunei Darussalam,0.9658,109,2013
+Paraguay,0.9758,55,2013
+Tajikistan,0.9559,123,2013
+Chile,0.9796,1,2013
+Angola,0.9796,1,2013
+Bhutan,0.9725,82,2013
+Armenia,0.9497,131,2013
+Indonesia,0.9663,107,2013
+El Salvador,0.9796,1,2013
+Maldives,0.9612,112,2013
+Mauritius,0.9796,1,2013
+Azerbaijan,0.9254,136,2013
+Cameroon,0.9612,112,2013
+India,0.9312,135,2013
+Malaysia,0.973,75,2013
+Burkina Faso,0.9685,99,2013
+Cambodia,0.9796,1,2013
+Japan,0.9791,34,2013
+Nigeria,0.9607,122,2013
+Belize,0.9796,1,2013
+Albania,0.9313,134,2013
+United Arab Emirates,0.9612,112,2013
+Suriname,0.9796,1,2013
+"Korea, Rep.",0.973,75,2013
+Bahrain,0.9612,112,2013
+Zambia,0.969,98,2013
+Guatemala,0.9796,1,2013
+Qatar,0.9522,129,2013
+Kuwait,0.9612,112,2013
+Fiji,0.9796,1,2013
+Ethiopia,0.9737,68,2013
+Jordan,0.9706,90,2013
+Turkey,0.9755,59,2013
+Nepal,0.9612,112,2013
+Oman,0.9755,59,2013
+Lebanon,0.9796,1,2013
+Algeria,0.9661,108,2013
+Egypt,0.9768,51,2013
+Benin,0.9612,112,2013
+Saudi Arabia,0.9762,52,2013
+Mali,0.9761,54,2013
+Morocco,0.9712,88,2013
+"Iran, Islamic Rep.",0.9714,87,2013
+Côte d'Ivoire,0.9796,1,2013
+Mauritania,0.9796,1,2013
+Syria,0.9756,58,2013
+Chad,0.9612,112,2013
+Pakistan,0.9557,124,2013
+Yemen,0.9727,81,2013
+Iceland,0.9696,98,2012
+Finland,0.9796,1,2012
+Norway,0.9697,94,2012
+Sweden,0.9735,73,2012
+Ireland,0.9737,69,2012
+New Zealand,0.9697,94,2012
+Denmark,0.9739,67,2012
+Philippines,0.9796,1,2012
+Nicaragua,0.9758,58,2012
+Switzerland,0.9738,68,2012
+Netherlands,0.9697,94,2012
+Belgium,0.9787,50,2012
+Germany,0.978,52,2012
+Lesotho,0.9796,1,2012
+Latvia,0.9796,1,2012
+South Africa,0.9677,103,2012
+Luxembourg,0.9719,85,2012
+United Kingdom,0.9698,93,2012
+Cuba,0.9743,66,2012
+Austria,0.9787,50,2012
+Canada,0.978,52,2012
+United States,0.9792,33,2012
+Mozambique,0.9612,111,2012
+Burundi,0.9685,100,2012
+Australia,0.9735,73,2012
+Spain,0.9791,34,2012
+Barbados,0.9796,1,2012
+Uganda,0.9796,1,2012
+Costa Rica,0.9747,65,2012
+Bolivia,0.9719,84,2012
+Kazakhstan,0.9796,1,2012
+Argentina,0.9796,1,2012
+Ecuador,0.9758,58,2012
+Lithuania,0.9791,34,2012
+Cape Verde,0.9796,1,2012
+Malawi,0.9683,102,2012
+Bahamas,0.9796,1,2012
+Slovenia,0.973,78,2012
+Sri Lanka,0.9796,1,2012
+Panama,0.9753,64,2012
+Namibia,0.9671,106,2012
+Guyana,0.9789,47,2012
+Trinidad and Tobago,0.9516,128,2012
+Mongolia,0.9796,1,2012
+Moldova,0.9791,34,2012
+Tanzania,0.9612,111,2012
+Portugal,0.9724,83,2012
+Venezuela,0.9796,1,2012
+Croatia,0.9791,34,2012
+Serbia*,0.9703,91,2012
+Jamaica,0.9796,1,2012
+Bulgaria,0.9791,34,2012
+Poland,0.9791,34,2012
+Kyrgyz Republic,0.973,78,2012
+Singapore,0.9719,85,2012
+Israel,0.9697,94,2012
+France,0.9796,1,2012
+Madagascar,0.9732,77,2012
+Russian Federation,0.9791,34,2012
+Estonia,0.9791,34,2012
+"Macedonia, FYR",0.9533,126,2012
+Brazil,0.9796,1,2012
+Colombia,0.9791,34,2012
+Ukraine,0.9791,34,2012
+Thailand,0.9796,1,2012
+Vietnam,0.9441,130,2012
+Romania,0.9791,34,2012
+Timor-Leste,0.9789,47,2012
+China,0.9344,132,2012
+Slovak Republic,0.9796,1,2012
+Ghana,0.9674,105,2012
+Kenya,0.9677,103,2012
+Czech Republic,0.9788,49,2012
+Honduras,0.9762,55,2012
+Brunei Darussalam,0.9658,109,2012
+Uruguay,0.9796,1,2012
+Botswana,0.9549,125,2012
+Peru,0.9658,109,2012
+Cyprus,0.9701,92,2012
+Italy,0.9733,76,2012
+Hungary,0.9791,34,2012
+Greece,0.9737,69,2012
+Paraguay,0.9758,58,2012
+Mexico,0.9796,1,2012
+Georgia,0.9497,129,2012
+Bangladesh,0.9557,123,2012
+Chile,0.9796,1,2012
+Malta,0.9737,69,2012
+Dominican Republic,0.9711,89,2012
+Senegal,0.9734,75,2012
+Albania,0.9313,133,2012
+Armenia,0.9441,130,2012
+"Gambia, The",0.9796,1,2012
+El Salvador,0.9796,1,2012
+Maldives,0.9612,111,2012
+Tajikistan,0.9559,122,2012
+Indonesia,0.9663,107,2012
+Mauritius,0.9796,1,2012
+Azerbaijan,0.92,135,2012
+Malaysia,0.973,78,2012
+Japan,0.9791,34,2012
+Belize,0.9796,1,2012
+Cambodia,0.9796,1,2012
+Burkina Faso,0.9685,100,2012
+India,0.9312,134,2012
+Suriname,0.9796,1,2012
+United Arab Emirates,0.9612,111,2012
+"Korea, Rep.",0.973,78,2012
+Kuwait,0.9612,111,2012
+Nigeria,0.9607,121,2012
+Bahrain,0.9612,111,2012
+Cameroon,0.9612,111,2012
+Fiji,0.9796,1,2012
+Zambia,0.969,99,2012
+Qatar,0.9522,127,2012
+Guatemala,0.9796,1,2012
+Benin,0.9612,111,2012
+Ethiopia,0.9737,72,2012
+Mauritania,0.9796,1,2012
+Algeria,0.9661,108,2012
+Jordan,0.9706,90,2012
+Lebanon,0.9796,1,2012
+Nepal,0.9612,111,2012
+Turkey,0.9755,62,2012
+Oman,0.9755,62,2012
+Egypt,0.9768,54,2012
+"Iran, Islamic Rep.",0.9714,87,2012
+Mali,0.9761,57,2012
+Morocco,0.9712,88,2012
+Côte d'Ivoire,0.9796,1,2012
+Saudi Arabia,0.9762,55,2012
+Syria,0.9756,61,2012
+Chad,0.9612,111,2012
+Pakistan,0.9557,123,2012
+Yemen,0.9727,82,2012
+Iceland,0.9696,96,2011
+Norway,0.9697,92,2011
+Finland,0.9796,1,2011
+Sweden,0.9729,82,2011
+Ireland,0.9741,72,2011
+New Zealand,0.9697,92,2011
+Denmark,0.9743,68,2011
+Philippines,0.9796,1,2011
+Lesotho,0.9796,1,2011
+Switzerland,0.9738,75,2011
+Germany,0.9784,49,2011
+Spain,0.9761,56,2011
+Belgium,0.9787,46,2011
+South Africa,0.9677,102,2011
+Netherlands,0.9697,92,2011
+United Kingdom,0.9698,91,2011
+United States,0.9792,39,2011
+Canada,0.9784,49,2011
+Latvia,0.9796,1,2011
+Cuba,0.9743,69,2011
+Trinidad and Tobago,0.9796,1,2011
+Bahamas,0.9796,1,2011
+Australia,0.9739,74,2011
+Burundi,0.9685,98,2011
+Costa Rica,0.9747,66,2011
+Mozambique,0.9612,111,2011
+Nicaragua,0.9758,58,2011
+Argentina,0.9796,1,2011
+Uganda,0.9796,1,2011
+Luxembourg,0.9743,67,2011
+Sri Lanka,0.9796,1,2011
+Namibia,0.9671,105,2011
+Barbados,0.9796,1,2011
+Austria,0.9787,46,2011
+Portugal,0.9742,71,2011
+Mongolia,0.9796,1,2011
+Lithuania,0.9796,1,2011
+Guyana,0.9789,45,2011
+Moldova,0.9796,1,2011
+Panama,0.9753,65,2011
+Slovenia,0.9755,64,2011
+Poland,0.9785,48,2011
+Russian Federation,0.9791,41,2011
+Kyrgyz Republic,0.9796,1,2011
+Ecuador,0.9758,58,2011
+Chile,0.9796,1,2011
+Jamaica,0.9796,1,2011
+France,0.9796,1,2011
+Kazakhstan,0.9796,1,2011
+Croatia,0.9796,1,2011
+Bulgaria,0.9791,41,2011
+Estonia,0.9773,51,2011
+"Macedonia, FYR",0.9551,125,2011
+Honduras,0.9762,53,2011
+Israel,0.9697,92,2011
+Greece,0.9712,86,2011
+Singapore,0.9677,101,2011
+Uruguay,0.9796,1,2011
+Tanzania,0.9612,111,2011
+Thailand,0.9796,1,2011
+China,0.9327,133,2011
+Bolivia,0.9719,84,2011
+Venezuela,0.9796,1,2011
+Ukraine,0.9761,56,2011
+Malawi,0.9683,100,2011
+Botswana,0.9549,126,2011
+Paraguay,0.9758,58,2011
+Romania,0.9791,41,2011
+Bangladesh,0.9557,123,2011
+Ghana,0.9674,104,2011
+Madagascar,0.9732,81,2011
+Slovakia,0.9796,1,2011
+Peru,0.9658,108,2011
+Italy,0.9738,75,2011
+Czech Republic,0.9792,39,2011
+Brunei Darussalam,0.9658,108,2011
+"Gambia, The",0.9796,1,2011
+Albania,0.9268,135,2011
+Vietnam,0.9458,130,2011
+Colombia,0.9791,41,2011
+Dominican Republic,0.9711,88,2011
+Brazil,0.9796,1,2011
+Malta,0.9741,72,2011
+Armenia,0.9419,131,2011
+Hungary,0.9796,1,2011
+Georgia,0.948,128,2011
+Angola,0.9796,1,2011
+Zimbabwe,0.9458,129,2011
+Mexico,0.9796,1,2011
+Indonesia,0.9663,106,2011
+Azerbaijan,0.9331,132,2011
+Senegal,0.9734,80,2011
+Cyprus,0.9701,90,2011
+El Salvador,0.9796,1,2011
+Mauritius,0.9796,1,2011
+Tajikistan,0.9559,122,2011
+Malaysia,0.9736,78,2011
+Japan,0.9796,1,2011
+Kenya,0.9677,102,2011
+Belize,0.9796,1,2011
+Maldives,0.9612,111,2011
+Cambodia,0.9796,1,2011
+United Arab Emirates,0.9612,111,2011
+Suriname,0.9742,70,2011
+Kuwait,0.9612,111,2011
+Zambia,0.969,97,2011
+"Korea, Rep.",0.9736,78,2011
+Tunisia,0.9641,110,2011
+Fiji,0.9796,1,2011
+Bahrain,0.9612,111,2011
+Qatar,0.9522,127,2011
+Guatemala,0.9796,1,2011
+India,0.9312,134,2011
+Mauritania,0.9796,1,2011
+Burkina Faso,0.9685,98,2011
+Ethiopia,0.9737,77,2011
+Jordan,0.9706,89,2011
+Lebanon,0.9796,1,2011
+Cameroon,0.9612,111,2011
+Nigeria,0.9607,121,2011
+Algeria,0.9661,107,2011
+Turkey,0.9755,62,2011
+Egypt,0.9768,52,2011
+Syria,0.9756,61,2011
+"Iran, Islamic Rep.",0.9714,85,2011
+Nepal,0.9612,111,2011
+Oman,0.9755,62,2011
+Benin,0.9612,111,2011
+Morocco,0.9712,87,2011
+Côte d’Ivoire,0.9796,1,2011
+Saudi Arabia,0.9762,53,2011
+Mali,0.9761,55,2011
+Pakistan,0.9557,123,2011
+Chad,0.9612,111,2011
+Yemen,0.9727,83,2011
