@@ -1,121 +1,121 @@
 Country,Score,Rank,Year 
-Iceland,0.970,104,2016
-Finland,0.980,1,2016
+Iceland,0.97,104,2016
+Finland,0.98,1,2016
 Norway,0.974,68,2016
 Sweden,0.974,69,2016
 Rwanda,0.972,89,2016
 Ireland,0.979,54,2016
-Philippines,0.980,1,2016
+Philippines,0.98,1,2016
 Slovenia,0.973,76,2016
-New Zealand,0.970,104,2016
-Nicaragua,0.980,1,2016
+New Zealand,0.97,104,2016
+Nicaragua,0.98,1,2016
 Switzerland,0.974,72,2016
 Burundi,0.974,66,2016
 Germany,0.979,54,2016
-Namibia,0.980,1,2016
-South Africa,0.980,1,2016
-Netherlands,0.970,103,2016
-France,0.980,1,2016
-Latvia,0.980,1,2016
-Denmark,0.970,106,2016
+Namibia,0.98,1,2016
+South Africa,0.98,1,2016
+Netherlands,0.97,103,2016
+France,0.98,1,2016
+Latvia,0.98,1,2016
+Denmark,0.97,106,2016
 United Kingdom,0.974,64,2016
 Mozambique,0.968,113,2016
-Estonia,0.980,1,2016
-Bolivia,0.980,1,2016
+Estonia,0.98,1,2016
+Bolivia,0.98,1,2016
 Belgium,0.974,64,2016
 Lithuania,0.979,40,2016
 Moldova,0.979,40,2016
 Cuba,0.975,61,2016
-Barbados,0.980,1,2016
+Barbados,0.98,1,2016
 Spain,0.972,91,2016
 Belarus,0.979,40,2016
 Portugal,0.973,76,2016
 Costa Rica,0.975,62,2016
-Argentina,0.980,1,2016
+Argentina,0.98,1,2016
 Luxembourg,0.974,69,2016
 Canada,0.969,108,2016
-Cape Verde,0.980,1,2016
-Bahamas,0.980,1,2016
+Cape Verde,0.98,1,2016
+Bahamas,0.98,1,2016
 Poland,0.979,40,2016
 Colombia,0.979,40,2016
-Ecuador,0.980,1,2016
+Ecuador,0.98,1,2016
 Bulgaria,0.979,40,2016
-Jamaica,0.980,1,2016
+Jamaica,0.98,1,2016
 Lao PDR,0.972,90,2016
-Trinidad and Tobago,0.980,1,2016
+Trinidad and Tobago,0.98,1,2016
 United States,0.975,62,2016
 Australia,0.974,72,2016
-Panama,0.980,1,2016
+Panama,0.98,1,2016
 Serbia,0.973,76,2016
 Israel,0.974,67,2016
 Italy,0.974,72,2016
-Kazakhstan,0.980,1,2016
-Austria,0.980,1,2016
+Kazakhstan,0.98,1,2016
+Austria,0.98,1,2016
 Tanzania,0.979,53,2016
 Botswana,0.973,85,2016
 Singapore,0.967,121,2016
-Zimbabwe,0.980,1,2016
-Lesotho,0.980,1,2016
-Mongolia,0.980,1,2016
+Zimbabwe,0.98,1,2016
+Lesotho,0.98,1,2016
+Mongolia,0.98,1,2016
 Ghana,0.973,85,2016
 Madagascar,0.973,88,2016
-Uganda,0.980,1,2016
+Uganda,0.98,1,2016
 Albania,0.947,141,2016
 Kenya,0.973,83,2016
-El Salvador,0.980,1,2016
-Vietnam,0.950,138,2016
-Mexico,0.980,1,2016
+El Salvador,0.98,1,2016
+Vietnam,0.95,138,2016
+Mexico,0.98,1,2016
 Malawi,0.973,75,2016
 Croatia,0.979,40,2016
 Ukraine,0.979,40,2016
 Chile,0.979,39,2016
-Thailand,0.980,1,2016
+Thailand,0.98,1,2016
 Bangladesh,0.971,93,2016
 "Macedonia, FYR",0.967,119,2016
-Venezuela,0.980,1,2016
+Venezuela,0.98,1,2016
 Russian Federation,0.979,40,2016
 Romania,0.979,40,2016
 Czech Republic,0.979,40,2016
 Honduras,0.976,59,2016
-Brazil,0.980,1,2016
-Peru,0.970,100,2016
+Brazil,0.98,1,2016
+Peru,0.97,100,2016
 Kyrgyz Republic,0.973,76,2016
 Senegal,0.967,123,2016
 Bosnia and Herzegovina,0.973,76,2016
 Cyprus,0.974,71,2016
 Cameroon,0.968,114,2016
-Azerbaijan,0.950,138,2016
+Azerbaijan,0.95,138,2016
 India,0.942,142,2016
 Indonesia,0.976,58,2016
 Montenegro,0.975,60,2016
 Georgia,0.967,119,2016
-Uruguay,0.980,1,2016
+Uruguay,0.98,1,2016
 Greece,0.979,54,2016
 Tajikistan,0.966,126,2016
 Slovak Republic,0.973,76,2016
-Suriname,0.980,1,2016
-Paraguay,0.980,1,2016
+Suriname,0.98,1,2016
+Paraguay,0.98,1,2016
 Dominican Republic,0.971,97,2016
-Belize,0.980,1,2016
+Belize,0.98,1,2016
 China,0.919,144,2016
-Sri Lanka,0.980,1,2016
+Sri Lanka,0.98,1,2016
 Hungary,0.979,40,2016
 Armenia,0.939,143,2016
 Brunei Darussalam,0.966,130,2016
 "Gambia, The",0.973,83,2016
-Guatemala,0.980,1,2016
+Guatemala,0.98,1,2016
 Malaysia,0.969,109,2016
 Swaziland,0.961,132,2016
-Malta,0.970,107,2016
+Malta,0.97,107,2016
 Ethiopia,0.978,57,2016
 Nepal,0.972,92,2016
 Japan,0.979,40,2016
-Cambodia,0.980,1,2016
-Mauritius,0.980,1,2016
+Cambodia,0.98,1,2016
+Mauritius,0.98,1,2016
 Liberia,0.967,118,2016
 Maldives,0.966,129,2016
 "Korea, Rep.",0.973,76,2016
-Angola,0.980,1,2016
+Angola,0.98,1,2016
 Nigeria,0.961,135,2016
 Qatar,0.957,136,2016
 Algeria,0.966,127,2016
@@ -128,19 +128,19 @@ Tunisia,0.969,110,2016
 Benin,0.967,116,2016
 Kuwait,0.957,136,2016
 Mauritania,0.973,85,2016
-Turkey,0.980,1,2016
+Turkey,0.98,1,2016
 Bahrain,0.961,132,2016
 Egypt,0.971,95,2016
 Oman,0.971,99,2016
 Jordan,0.966,131,2016
-Lebanon,0.970,102,2016
-Côte d'Ivoire,0.968,112,2016
+Lebanon,0.97,102,2016
+Cote d'Ivoire,0.968,112,2016
 Morocco,0.971,93,2016
 Mali,0.949,140,2016
 "Iran, Islamic Rep.",0.971,98,2016
 Chad,0.968,111,2016
 Saudi Arabia,0.966,128,2016
-Syria,0.970,101,2016
+Syria,0.97,101,2016
 Pakistan,0.967,124,2016
 Yemen,0.967,122,2016
 Iceland,0.97,105,2015

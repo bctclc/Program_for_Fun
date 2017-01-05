@@ -1,4 +1,4 @@
-setwd("E:\\Gender Gap")
+setwd("E:\\—ßœ∞œ‡πÿ\\R\\Program_for_Fun\\Gender Gap - WEF")
 library(ggplot2)
 library(plyr)
 library(ggradar)
@@ -41,10 +41,14 @@ for (i in 1:837){
   else if (overall[i,4]==2011){overall[i,6]<- (136-overall[i,3])/135}
 }
 
+x <- data.frame(Country=c("Fake", "Fake"), Score=c(0,1), Rank=c(0,0), Year=c(2011,2016), 
+                color=c("white","white"), rerank=c(1,0))
+overall <- rbind(overall,x)
+
 ggplot(overall, aes(x=Year, y=rerank, group=Country, color=color))+
   geom_line(size=1)+
   scale_color_manual(values=c("#867A72", "#913c3c","#e6e6e8"))+
-  theme(panel.background = element_rect(fill = "#CCC0B1"),
+  theme(panel.background = element_rect(fill = "#000000"),
         panel.border= element_blank())
 
 eco_par <- eco_par[which((eco_par$Country %in% BRICS)==T),]
@@ -67,16 +71,60 @@ tertiary <- tertiary[which((tertiary$Country %in% BRICS)==T),]
 wage <- wage[which((wage$Country %in% BRICS)==T),]
 parliament <- parliament[which((parliament$Country %in% BRICS)==T),]
 
-# summary of the four major categories - radar chart
-eco_par$cat <- "1eco_par"
-edu_att$cat <- "2edu_att"
-poli_emp$cat <- "3poli_emp"
-health$cat <- "4health"
-radar <- rbind(eco_par, edu_att, poli_emp, health)
-radar <- radar[which(radar$Year==2016),]
-radar <- radar[, c(1,2,5)]
-radar <- reshape(radar, idvar="Country", timevar = "cat", direction= "wide")
-ggradar(radar, aes(color=Country))
+# summary of the four major categories - mountain chart
+x <- data.frame(Country="Fake", Score=1, Rank=1, Year=2017)
+
+plots <-list()
+for (i in BRICS){
+  temp <- eco_par[which(eco_par$Country==i),]
+  x$Score <- temp[which(temp$Year==2016),2]
+  temp <- rbind(temp, x)
+  p1 <- ggplot(temp, aes(x=Year, y=Score, color="white"))+
+                 geom_step()+ ggtitle(i)+
+    theme(panel.background = element_rect(fill = "#000000"),
+          panel.border= element_blank(), panel.grid.major=element_line(colour=NA))
+  plots[[i]] <- p1
+  }
+do.call("grid.arrange", c(plots, ncol=1, nrow=5))
+
+plots <-list()
+for (i in BRICS){
+  temp <- edu_att[which(edu_att$Country==i),]
+  x$Score <- temp[which(temp$Year==2016),2]
+  temp <- rbind(temp, x)
+  p1 <- ggplot(temp, aes(x=Year, y=Score, color="white"))+
+    geom_step()+ ggtitle(i)+
+    theme(panel.background = element_rect(fill = "#000000"),
+          panel.border= element_blank(), panel.grid.major=element_line(colour=NA))
+  plots[[i]] <- p1
+}
+do.call("grid.arrange", c(plots, ncol=1, nrow=5))
+
+plots <-list()
+for (i in BRICS){
+  temp <- health[which(health$Country==i),]
+  x$Score <- temp[which(temp$Year==2016),2]
+  temp <- rbind(temp, x)
+  p1 <- ggplot(temp, aes(x=Year, y=Score, color="white"))+
+    geom_step()+ ggtitle(i)+
+    theme(panel.background = element_rect(fill = "#000000"),
+          panel.border= element_blank(), panel.grid.major=element_line(colour=NA))
+  plots[[i]] <- p1
+}
+do.call("grid.arrange", c(plots, ncol=1, nrow=5))
+
+plots <-list()
+for (i in BRICS){
+  temp <- poli_emp[which(poli_emp$Country==i),]
+  x$Score <- temp[which(temp$Year==2016),2]
+  temp <- rbind(temp, x)
+  p1 <- ggplot(temp, aes(x=Year, y=Score, color="white"))+
+    geom_step()+ ggtitle(i)+
+    theme(panel.background = element_rect(fill = "#000000"),
+          panel.border= element_blank(), panel.grid.major=element_line(colour=NA))
+  plots[[i]] <- p1
+}
+do.call("grid.arrange", c(plots, ncol=1, nrow=5))
 
 # break-down of smaller categories
 
