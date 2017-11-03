@@ -1,4 +1,148 @@
 Country,Score,Rank,Year
+Iceland,0.75,1,2017
+Norway,0.53,4,2017
+Finland,0.519,5,2017
+Rwanda,0.539,3,2017
+Sweden,0.486,8,2017
+Nicaragua,0.576,2,2017
+Slovenia,0.44,11,2017
+Ireland,0.493,6,2017
+New Zealand,0.43,12,2017
+Philippines,0.416,13,2017
+France,0.453,9,2017
+Germany,0.447,10,2017
+Namibia,0.318,26,2017
+Denmark,0.406,16,2017
+United Kingdom,0.404,17,2017
+Canada,0.361,20,2017
+Bolivia,0.408,14,2017
+Bulgaria,0.346,23,2017
+South Africa,0.399,18,2017
+Latvia,0.246,41,2017
+Switzerland,0.314,28,2017
+Burundi,0.255,40,2017
+Barbados,0.15,82,2017
+Spain,0.354,22,2017
+Cuba,0.382,19,2017
+Belarus,0.173,73,2017
+Bahamas,0.122,98,2017
+Lithuania,0.241,42,2017
+Mozambique,0.34,24,2017
+Moldova,0.176,72,2017
+Belgium,0.264,37,2017
+Netherlands,0.323,25,2017
+Portugal,0.24,43,2017
+Argentina,0.356,21,2017
+Australia,0.232,48,2017
+Colombia,0.206,59,2017
+Estonia,0.218,52,2017
+Albania,0.284,31,2017
+Poland,0.23,49,2017
+Serbia,0.262,38,2017
+Costa Rica,0.314,27,2017
+Ecuador,0.283,32,2017
+Panama,0.222,51,2017
+Israel,0.232,47,2017
+Uganda,0.305,30,2017
+Botswana,0.079,122,2017
+Bangladesh,0.493,7,2017
+Peru,0.277,33,2017
+United States,0.124,96,2017
+Zimbabwe,0.197,62,2017
+Jamaica,0.171,74,2017
+Kazakhstan,0.13,93,2017
+Mongolia,0.102,107,2017
+Croatia,0.18,68,2017
+Honduras,0.2,61,2017
+Uruguay,0.216,53,2017
+Austria,0.216,54,2017
+Romania,0.159,78,2017
+Luxembourg,0.184,66,2017
+Venezuela,0.167,75,2017
+Ukraine,0.107,103,2017
+El Salvador,0.214,56,2017
+Chile,0.266,36,2017
+Lao PDR,0.137,87,2017
+Singapore,0.11,101,2017
+Bosnia and Herzegovina,0.275,35,2017
+"Macedonia, FYR",0.209,58,2017
+Tanzania,0.239,44,2017
+Vietnam,0.124,97,2017
+Dominican Republic,0.179,69,2017
+Russian Federation,0.085,121,2017
+Ghana,0.097,112,2017
+Lesotho,0.147,84,2017
+Slovak Republic,0.135,89,2017
+Thailand,0.072,127,2017
+Kenya,0.147,83,2017
+Montenegro,0.157,79,2017
+Greece,0.136,88,2017
+Belize,0.032,139,2017
+Madagascar,0.127,94,2017
+Mexico,0.276,34,2017
+Italy,0.234,46,2017
+Myanmar,0.059,132,2017
+Indonesia,0.193,63,2017
+Kyrgyz Republic,0.13,92,2017
+Suriname,0.177,71,2017
+Cameroon,0.191,64,2017
+Czech Republic,0.13,91,2017
+Cape Verde,0.178,70,2017
+Brazil,0.101,110,2017
+Senegal,0.308,29,2017
+Cyprus,0.092,115,2017
+Malta,0.146,85,2017
+Georgia,0.093,114,2017
+Tajikistan,0.088,117,2017
+Paraguay,0.094,113,2017
+Armenia,0.099,111,2017
+Azerbaijan,0.063,131,2017
+Cambodia,0.104,106,2017
+China,0.16,77,2017
+Malawi,0.152,81,2017
+Brunei Darussalam,0.031,140,2017
+Hungary,0.035,138,2017
+Malaysia,0.058,133,2017
+Swaziland,0.109,102,2017
+Maldives,0.072,128,2017
+Liberia,0.236,45,2017
+India,0.407,15,2017
+Sri Lanka,0.188,65,2017
+Guatemala,0.102,109,2017
+Nepal,0.155,80,2017
+Mauritius,0.09,116,2017
+Guinea,0.162,76,2017
+Japan,0.078,123,2017
+Ethiopia,0.223,50,2017
+Benin,0.065,129,2017
+Tunisia,0.216,55,2017
+"Korea, Rep.",0.134,90,2017
+"Gambia, The",0.106,104,2017
+United Arab Emirates,0.18,67,2017
+Burkina Faso,0.075,125,2017
+Nigeria,0.052,135,2017
+Angola,0.262,39,2017
+Bhutan,0.056,134,2017
+Fiji,0.104,105,2017
+Bahrain,0.037,137,2017
+Algeria,0.145,86,2017
+Timor-Leste,0.205,60,2017
+Kuwait,0.027,141,2017
+Qatar,0.016,143,2017
+Turkey,0.088,118,2017
+Mauritania,0.214,57,2017
+Cote d'Ivoire,0.102,108,2017
+Egypt,0.087,119,2017
+Jordan,0.075,126,2017
+Morocco,0.117,100,2017
+Lebanon,0.019,142,2017
+Saudi Arabia,0.077,124,2017
+Mali,0.118,99,2017
+"Iran, Islamic Rep.",0.046,136,2017
+Chad,0.087,120,2017
+Syria,0.063,130,2017
+Pakistan,0.127,95,2017
+Yemen,0.014,144,2017
 Iceland,0.719,1,2016
 Finland,0.607,2,2016
 Norway,0.576,3,2016
@@ -7,7 +151,7 @@ Rwanda,0.452,8,2016
 Ireland,0.502,5,2016
 Philippines,0.386,17,2016
 Slovenia,0.385,18,2016
-New Zealand,0.390,16,2016
+New Zealand,0.39,16,2016
 Nicaragua,0.506,4,2016
 Switzerland,0.391,15,2016
 Burundi,0.314,28,2016
@@ -26,18 +170,18 @@ Belgium,0.275,35,2016
 Lithuania,0.239,43,2016
 Moldova,0.196,58,2016
 Cuba,0.407,12,2016
-Barbados,0.150,78,2016
+Barbados,0.15,78,2016
 Spain,0.316,26,2016
 Belarus,0.146,80,2016
 Portugal,0.268,36,2016
 Costa Rica,0.365,20,2016
-Argentina,0.350,22,2016
+Argentina,0.35,22,2016
 Luxembourg,0.212,55,2016
 Canada,0.222,49,2016
 Cape Verde,0.343,23,2016
-Bahamas,0.110,99,2016
+Bahamas,0.11,99,2016
 Poland,0.238,44,2016
-Colombia,0.180,66,2016
+Colombia,0.18,66,2016
 Ecuador,0.297,32,2016
 Bulgaria,0.215,51,2016
 Jamaica,0.183,63,2016
@@ -59,7 +203,7 @@ Lesotho,0.172,70,2016
 Mongolia,0.084,119,2016
 Ghana,0.112,95,2016
 Madagascar,0.142,81,2016
-Uganda,0.260,37,2016
+Uganda,0.26,37,2016
 Albania,0.214,53,2016
 Kenya,0.182,64,2016
 El Salvador,0.214,52,2016
@@ -74,16 +218,16 @@ Bangladesh,0.462,7,2016
 "Macedonia, FYR",0.178,67,2016
 Venezuela,0.127,89,2016
 Russian Federation,0.066,129,2016
-Romania,0.090,112,2016
+Romania,0.09,112,2016
 Czech Republic,0.134,85,2016
-Honduras,0.160,75,2016
+Honduras,0.16,75,2016
 Brazil,0.132,86,2016
 Peru,0.194,60,2016
 Kyrgyz Republic,0.132,87,2016
 Senegal,0.316,27,2016
 Bosnia and Herzegovina,0.191,62,2016
-Cyprus,0.100,105,2016
-Cameroon,0.180,65,2016
+Cyprus,0.1,105,2016
+Cameroon,0.18,65,2016
 Azerbaijan,0.069,124,2016
 India,0.433,9,2016
 Indonesia,0.168,72,2016
@@ -93,7 +237,7 @@ Uruguay,0.101,104,2016
 Greece,0.104,101,2016
 Tajikistan,0.104,102,2016
 Slovak Republic,0.093,110,2016
-Suriname,0.120,91,2016
+Suriname,0.12,91,2016
 Paraguay,0.075,122,2016
 Dominican Republic,0.085,118,2016
 Belize,0.048,135,2016
@@ -106,36 +250,36 @@ Brunei Darussalam,0.021,141,2016
 Guatemala,0.112,96,2016
 Malaysia,0.051,134,2016
 Swaziland,0.109,100,2016
-Malta,0.140,82,2016
+Malta,0.14,82,2016
 Ethiopia,0.231,45,2016
 Nepal,0.175,68,2016
 Japan,0.103,103,2016
 Cambodia,0.098,108,2016
 Mauritius,0.087,116,2016
-Liberia,0.230,46,2016
+Liberia,0.23,46,2016
 Maldives,0.055,133,2016
-"Korea, Rep.",0.120,92,2016
+"Korea, Rep.",0.12,92,2016
 Angola,0.251,40,2016
 Nigeria,0.097,109,2016
 Qatar,0.013,144,2016
 Algeria,0.205,56,2016
 Bhutan,0.056,132,2016
-Guinea,0.130,88,2016
+Guinea,0.13,88,2016
 Burkina Faso,0.068,127,2016
 United Arab Emirates,0.139,83,2016
 Timor-Leste,0.229,47,2016
-Tunisia,0.170,71,2016
+Tunisia,0.17,71,2016
 Benin,0.067,128,2016
 Kuwait,0.022,140,2016
 Mauritania,0.195,59,2016
-Turkey,0.090,113,2016
+Turkey,0.09,113,2016
 Bahrain,0.037,137,2016
 Egypt,0.087,115,2016
 Oman,0.021,142,2016
 Jordan,0.073,123,2016
 Lebanon,0.021,143,2016
 Côte d'Ivoire,0.081,120,2016
-Morocco,0.110,98,2016
+Morocco,0.11,98,2016
 Mali,0.086,117,2016
 "Iran, Islamic Rep.",0.047,136,2016
 Chad,0.093,111,2016
